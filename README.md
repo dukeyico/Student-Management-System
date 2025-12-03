@@ -110,4 +110,4 @@ Contributions are welcome\! Please fork the repository and create a pull request
 
 ## License
 
-This project is open-source and available under the [Apache License](https://www.google.com/search?q=LICENSE).
+This project is open-source and available under the [Apache License](https://www.apache.org/licenses/LICENSE-2.0).
