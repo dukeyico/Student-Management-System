@@ -10,7 +10,7 @@ This project demonstrates a production-ready implementation of a Spring Boot app
 ## Live Demo
 
 **Base URL:** `https://student-management-system-production-723e.up.railway.app`
-*(Note: As this is a backend API, accessing the root URL may return a 404. Please use the API endpoints below.)*
+*(Note: As this is a backend API, accessing the root URL may return a 404. Please use the API endpoints in the API section.)*
 
 ## Tech Stack
 
@@ -36,7 +36,7 @@ This project demonstrates a production-ready implementation of a Spring Boot app
 | :--- | :--- | :--- |
 | `GET` | `/students` | Retrieve a list of all students |
 | `GET` | `/students/{id}` | Retrieve a specific student by ID |
-| `POST` | `/students` | Register a new student |
+| `POST` | `/students/new` | Register a new student |
 | `PUT` | `/students/{id}` | Update an existing student's details |
 | `DELETE` | `/students/{id}` | Remove a student from the system |
 
@@ -111,3 +111,5 @@ Contributions are welcome\! Please fork the repository and create a pull request
 ## License
 
 This project is open-source and available under the [Apache License](https://www.apache.org/licenses/LICENSE-2.0).
+
+## Link to the live project: [Student Management System](https://student-management-system-production-723e.up.railway.app/students/new)
