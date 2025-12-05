@@ -3,7 +3,7 @@
 
 ## Overview
 
-The **Student Management System** is a robust backend application designed to handle the administrative operations of a school. Built using the **MVC (Model-View-Controller)** architecture, this system provides RESTful APIs for managing student records, course enrollments, and academic data.
+The **Student Management System** is a robust backend application designed to handle the administrative operations of a school. Built using the **MVC (Model-View-Controller)** architecture, this system provides RESTful APIs for managing student personal records.
 
 This project demonstrates a production-ready implementation of a Spring Boot application, complete with cloud deployment, database integration, and automated CI/CD pipelines.
 
